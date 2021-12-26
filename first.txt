@@ -2,3 +2,7 @@ this is first file in repo
 
 
 second change after user name creation
+
+this is first branch merge conflict
+
+am from bangalore
