@@ -4,3 +4,5 @@ this is first file in repo
 second change after user name creation
 
 this is merge conflict change in master from dev1
+
+am from bangalore
