@@ -3,6 +3,9 @@ this is first file in repo
 
 second change after user name creation
 
+<<<<<<< HEAD
 this is first branch merge conflict
+=======
+this is merge conflict change in master from dev1
+>>>>>>> 7113ebe93270f116d68e61dd6a642c4e18281e38
 
-am from bangalore
